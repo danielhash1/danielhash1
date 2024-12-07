@@ -2,11 +2,11 @@
 <h3 align="center">A passionate web developer from Earth.</h3>
 
 - 📫 How to reach me <br>
-  Telegram: @danielbianco <br>
+  Telegram: <a href="t.me/danielbianco" target="_blank">@danielbianco </a> <br>
   Email: **danielkoliada.contact@gmail.com**
 
 
-- ⚡ Fun fact **I drink coffee.**
+- ⚡ Random fact **I drink coffee.**
 
 <p align="left">
 </p>
