@@ -1,9 +1,9 @@
 <h1 align="center">Welcome 👋, I'm Daniel</h1>
 <h3 align="center">A passionate web developer from Earth.</h3>
 
-- 📫 How to reach me:
-- Telegram: @danielbianco
-- Email: **danielkoliada.contact@gmail.com**
+- 📫 How to reach me
+  Telegram: @danielbianco
+  Email: **danielkoliada.contact@gmail.com**
 
 
 - ⚡ Fun fact **I drink coffee.**
