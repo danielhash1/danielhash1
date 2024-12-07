@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Earth.</h3>
 
 - 📫 How to reach me <br>
-  Telegram: <a href="t.me/danielbianco" target="_blank">@danielbianco </a> <br>
+  Telegram: <a href="https://www.t.me/danielbianco" target="_blank">@danielbianco </a> <br>
   Email: **danielkoliada.contact@gmail.com**
 
 
