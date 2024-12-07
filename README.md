@@ -1,11 +1,13 @@
 <h1 align="center">Welcome 👋, I'm Daniel</h1>
 <h3 align="center">A passionate web developer from Earth.</h3>
 
-- 📫 How to reach me **danielkoliada.contact@gmail.com**
+- 📫 How to reach me:
+- Telegram: @danielbianco
+- Email: **danielkoliada.contact@gmail.com**
+
 
 - ⚡ Fun fact **I drink coffee.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -15,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielhash1&show_icons=true&theme=dark&locale=en&layout=compact" alt="danielhash1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielhash1&show_icons=true&locale=en" alt="danielhash1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielhash1&theme=dark" alt="danielhash1" /></p>
